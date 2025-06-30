@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 test('myMethod test', function() {
     equal(myMethod(), 123, 'myMethod returns right result');
     equal(myMethod(), 321, 'this should trigger an error');

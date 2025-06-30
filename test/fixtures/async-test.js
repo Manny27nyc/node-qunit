@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 test('1', 1, function (){
     ok(true, "tests intermixing sync and async tests #1");
 });

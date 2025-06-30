@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 var a = require('assert'),
     chainer = require('chainer'),
     _ = require('underscore');

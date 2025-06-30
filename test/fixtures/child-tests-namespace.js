@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 test("Dependency file required as a namespace object", function() {
     strictEqual(typeof testns != "undefined", true);
     equal(typeof testns.whereFrom, "function", "right method attached to right object");
